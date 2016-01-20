@@ -16,6 +16,8 @@ React-Router
 
 ``` npm run watch ```
 
-Open up index.html in browser (should render 'hello dave')
+Open up index.html in browser (should render 'hello world')
 
-Needs a build script that sends index.html and bundle.js to firebase, which will host static assets. 
+
+
+**work in progress -- will eventually bring in node server, include redux tools, etc***

@@ -1,7 +1,7 @@
 {
-  "name": "khmirror",
+  "name": "App",
   "version": "1.0.0",
-  "description": "\"UI Video Streaming App\"",
+  "description": "\"bootstrap app\"",
   "main": "index.js",
   "dependencies": {
     "react": "^0.14.6",
@@ -27,5 +27,5 @@
   "scripts": {
     "watch": "watchify ./src/app/containers/index.jsx -t babelify -p livereactload -o static/bundle.js"
   },
-  "author": "Apperson Labs"
+  "author": "GeGe Pincin"
 }

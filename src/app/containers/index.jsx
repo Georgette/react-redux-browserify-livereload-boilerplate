@@ -3,7 +3,7 @@ var React = require('react'),
     { Router, Route, browserHistory } = require('react-router')
 
 ReactDOM.render(
-  <div>Hello Dave</div>,
+  <div>Hello World</div>,
   document.getElementById('app')
 )
 

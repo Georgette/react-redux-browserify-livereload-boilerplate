@@ -1,0 +1,1 @@
+var { combineReducers } = require('redux')
